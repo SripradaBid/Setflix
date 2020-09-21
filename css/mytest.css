@@ -1,0 +1,126 @@
+body{
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  background-color: black;
+}
+
+h1{
+  text-align: center;
+  color: white;
+  padding-bottom: 2.5rem;
+}
+#header{
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  font-size: 3rem;
+  line-height: 1.5;
+  padding: 2rem 4.5rem;
+}
+
+#header-img{
+  padding-left: 4.5rem;
+  font-family: 'Amatic SC', cursive;
+  font-size: 3rem;
+  color: red;
+}
+
+#title{
+  background-color: black;
+
+}
+
+#email{
+  margin-left: 10rem;
+  margin-bottom: 5rem;
+}
+
+#features{
+  text-align: center;
+  padding: 4.5rem;
+  color: white;
+  background-color: grey;
+}
+
+#video{
+  margin: 2.5rem;
+  margin-bottom: 20px;
+}
+
+#pricing{
+  background-color: black;
+  padding: 100px;
+}
+
+#contact{
+  padding: 100px;
+  text-align: center;
+  background-color: grey;
+  color: white;
+}
+
+#signup{
+  background-color: black;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+}
+
+#facebook{
+  padding: 2rem;
+}
+
+#twitter{
+  padding: 2rem;
+}
+
+#instagram{
+  padding: 2rem;
+}
+
+#mail{
+  padding: 2rem;
+}
+
+.description{
+  color: white;
+  padding-left: 4.5rem;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+
+.nave-link{
+  font-size: 1.2rem;
+}
+
+.title-img{
+  transform: rotate(7deg);
+  width: 75%;
+  padding-bottom: 3rem;
+}
+
+.row{
+  text-align: center;
+}
+
+.pricing{
+  padding: 3% 2%;
+}
+
+.signup{
+  font-family: 'Amatic SC', cursive;
+  font-size: 3rem;
+  color: red;
+  text-align: center;
+}
+
+.label{
+  padding: 3rem;
+}
+
+@media (max-width: 1028px){
+  .title-img{
+    transform: rotate(0);
+  }
+}
